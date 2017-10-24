@@ -1,0 +1,11 @@
+E:\项目\五小件\GPSserver\GPS\bin\Debug\GPS.exe.config
+E:\项目\五小件\GPSserver\GPS\bin\Debug\GPS.exe
+E:\项目\五小件\GPSserver\GPS\bin\Debug\GPS.pdb
+E:\项目\五小件\GPSserver\GPS\obj\Debug\GPS.ProjectInstaller.resources
+E:\项目\五小件\GPSserver\GPS\obj\Debug\GPS.csproj.GenerateResource.Cache
+E:\项目\五小件\GPSserver\GPS\obj\Debug\GPS.exe
+E:\项目\五小件\GPSserver\GPS\obj\Debug\GPS.pdb
+E:\项目\五小件\GPSserver\GPS\bin\Debug\log4net.dll
+E:\项目\五小件\GPSserver\GPS\obj\Debug\GPS.csprojResolveAssemblyReference.cache
+E:\项目\五小件\GPSserver\GPS\bin\Debug\DbComponent.dll
+E:\项目\五小件\GPSserver\GPS\bin\Debug\DbComponent.pdb

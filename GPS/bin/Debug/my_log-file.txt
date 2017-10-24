@@ -1,0 +1,14 @@
+2017-05-25 15:33:55,508 [10152] INFO  GPS.Service1 [] <>
+ - 车载视频GPS监听启动:
+2017-05-25 15:34:06,884 [844] ERROR GPS.Service1 [] <>
+ - System.TypeInitializationException: “DbComponent.SQLHelper”的类型初始值设定项引发异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DbComponent.SQLHelper..cctor() 位置 e:\项目\五小件\GPSserver\DbComponent\SQLHelper.cs:行号 10
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 GPS.Service1.CZreceiver() 位置 e:\项目\五小件\GPSserver\GPS\Service1.cs:行号 61
+2017-05-25 15:34:07,759 [844] ERROR GPS.Service1 [] <>
+ - System.TypeInitializationException: “DbComponent.SQLHelper”的类型初始值设定项引发异常。 ---> System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DbComponent.SQLHelper..cctor() 位置 e:\项目\五小件\GPSserver\DbComponent\SQLHelper.cs:行号 10
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 DbComponent.SQLHelper.ExecuteNonQuery(CommandType cmdtype, String cmdText, SqlParameter[] Parameters)
+   在 GPS.Service1.CZreceiver() 位置 e:\项目\五小件\GPSserver\GPS\Service1.cs:行号 61
